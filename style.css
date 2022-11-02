@@ -1,0 +1,44 @@
+body {
+    background-color: blanchedalmond;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(156, 27, 182);
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(4, 92, 127);
+}
+
+
+ul {
+    list-style: none;
+}
+
+.div_ramen {
+    text-align: center;
+}
+
+.img_ramen {
+    width: 400px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    border: solid 2px red;
+    width: 10%;
+}
+
+li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(32, 12, 92);
+}
